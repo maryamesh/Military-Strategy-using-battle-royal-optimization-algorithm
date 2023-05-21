@@ -1,0 +1,500 @@
+my_result,my_score,points,opponent_score
+Victory,3,31,0
+Defeat,0,-25,1
+Victory,1,31,0
+Defeat,0,-25,1
+Victory,2,30,1
+Draw,1,0,1
+Defeat,0,-24,3
+Victory,1,30,0
+Defeat,0,-24,1
+Victory,2,29,0
+Victory,2,29,1
+Victory,1,28,0
+Defeat,1,-25,2
+Victory,2,30,1
+Victory,3,30,0
+Victory,1,28,0
+Defeat,2,-24,3
+Victory,2,30,0
+Defeat,1,-25,3
+Defeat,1,-23,2
+Victory,3,29,1
+Victory,2,29,1
+Defeat,1,-26,3
+Victory,1,30,0
+Victory,2,-78,1
+Victory,3,30,0
+Victory,1,28,0
+Defeat,2,-24,3
+Victory,2,30,0
+Defeat,1,-25,3
+Defeat,1,-23,2
+Victory,3,29,1
+Victory,2,29,1
+Defeat,1,-26,3
+Victory,1,30,0
+Victory,2,30,1
+Victory,1,30,0
+Defeat,0,-22,1
+Defeat,0,-24,2
+Defeat,1,-24,2
+Defeat,0,-23,1
+Defeat,0,-25,2
+Draw,1,0,1
+Defeat,1,-26,3
+Defeat,1,-25,3
+Victory,1,30,0
+Defeat,0,-26,2
+Defeat,0,-25,2
+Defeat,0,-24,3
+Victory,1,45,0
+Victory,1,30,0
+Victory,2,30,1
+Victory,2,31,1
+Victory,2,29,1
+Defeat,1,-24,2
+Victory,2,31,1
+Victory,2,30,1
+Defeat,0,-24,3
+Defeat,1,-25,2
+Defeat,1,-24,3
+Victory,2,30,0
+Defeat,1,-24,3
+Defeat,1,-25,3
+Victory,2,29,1
+Defeat,0,-25,3
+Defeat,1,-24,3
+Defeat,1,-24,2
+Defeat,1,-24,3
+Defeat,2,-25,3
+Victory,2,28,1
+Victory,2,157,1
+Victory,2,31,1
+Victory,3,29,1
+Defeat,1,-27,2
+Defeat,0,-25,1
+Defeat,0,-24,1
+Victory,2,29,1
+Defeat,1,-24,2
+Defeat,0,-24,1
+Defeat,0,-23,3
+Defeat,0,-27,1
+Defeat,0,-25,1
+Victory,1,27,0
+Defeat,1,-25,3
+Defeat,1,-25,3
+Defeat,1,-24,2
+Victory,1,28,0
+Defeat,1,-24,2
+Defeat,1,-25,2
+Defeat,0,-25,1
+Victory,1,30,0
+Victory,1,31,0
+Defeat,0,-25,1
+Defeat,0,-25,1
+Victory,2,29,1
+Victory,2,29,1
+Defeat,0,-26,1
+Victory,1,30,0
+Victory,2,28,1
+Defeat,0,-26,1
+Victory,1,30,0
+Victory,1,30,0
+Victory,1,32,0
+Defeat,0,-25,1
+Defeat,0,-25,1
+Defeat,0,-26,3
+Victory,1,27,0
+Defeat,0,-25,3
+Victory ,2,29,1
+Victory ,2,29,1
+Victory ,1,30,0
+Victory ,2,28,1
+Victory ,1,30,0
+Victory ,1,30,0
+Victory ,1,32,0
+Victory ,1,27,0
+Defeat,1,-24,3
+Victory ,1,31,0
+Defeat,0,-25,3
+Defeat,1,-24,3
+Victory ,1,27,0
+Defeat,0,-27,3
+Defeat,1,-25,3
+Victory ,2,30,0
+Victory ,1,29,0
+Defeat,0,-27,1
+Defeat,0,-24,1
+Victory ,1,27,0
+Defeat,0,-24,1
+Defeat,2,-24,3
+Victory ,1,29,0
+Defeat,0,-25,1
+Defeat,0,-24,3
+Draw,0,0,0
+Defeat,0,-26,1
+Defeat,0,-26,1
+Defeat,0,-25,1
+Defeat,0,-26,2
+Defeat,0,-25,1
+Victory ,2,30,0
+Victory ,3,29,0
+Victory ,1,30,0
+Defeat,1,-25,2
+Defeat,0,-26,2
+Defeat,1,-25,3
+Defeat,0,-29,3
+Defeat,0,-24,3
+Defeat,1,-28,2
+Victory ,1,30,0
+Defeat,1,-25,2
+Victory ,1,29,0
+Victory ,2,31,1
+Defeat,1,-25,3
+Defeat,1,-28,3
+Victory ,1,29,0
+Defeat,0,-24,1
+Victory ,1,33,0
+Draw,1,0,1
+Draw,0,0,0
+Defeat,0,-25,3
+Defeat,0,-26,1
+Defeat,0,-24,1
+Victory ,1,31,0
+Draw,1,0,1
+Victory ,2,30,1
+Draw,1,0,1
+Defeat,0,-25,1
+Defeat,0,-27,1
+Victory ,3,30,0
+Defeat,0,-25,1
+Victory ,3,28,0
+Defeat,0,-28,1
+Defeat,0,-26,3
+Victory ,1,29,0
+Victory ,1,30,0
+Victory ,1,31,0
+Defeat,1,-26,2
+Victory ,2,26,1
+Defeat,0,-26,1
+Victory ,1,30,0
+Victory ,1,30,0
+Victory ,1,31,0
+Defeat,0,-25,1
+Victory ,1,30,0
+Draw,1,0,1
+Victory ,1,31,0
+Victory ,1,30,0
+Victory ,2,28,1
+Defeat,1,-24,2
+Victory ,1,30,0
+Victory ,1,29,0
+Draw,1,0,1
+Victory ,1,29,0
+Draw,0,0,0
+Defeat,0,-24,3
+Defeat,0,-24,3
+Victory ,1,32,0
+Defeat,1,-23,2
+Defeat,1,-26,3
+Defeat,1,-23,2
+Defeat,0,-26,1
+Defeat,1,-26,2
+Defeat,0,-24,1
+Victory ,2,30,1
+Victory ,3,30,1
+Defeat,0,-25,1
+Defeat,1,-24,2
+Victory ,1,29,0
+Defeat,1,-26,2
+Victory ,3,29,0
+Victory ,2,30,1
+Defeat,0,-23,1
+Defeat,1,-26,3
+Draw,1,0,1
+Victory ,1,30,0
+Victory ,2,30,0
+Victory ,2,33,1
+Defeat,0,-24,1
+Defeat,1,-26,2
+Victory ,1,30,0
+Defeat,1,-26,2
+Defeat,0,-26,1
+Victory ,3,28,1
+Defeat,1,-24,2
+Victory ,1,29,0
+Victory ,2,27,1
+Defeat,1,-26,3
+Victory ,1,30,0
+Victory ,1,30,0
+Victory ,2,30,1
+Defeat,0,-24,1
+Defeat,1,0,3
+Defeat,1,-24,3
+Defeat,1,-24,2
+Defeat,0,-26,2
+Victory,1,29,0
+Defeat,0,-24,1
+Defeat,0,-24,3
+Victory,1,32,0
+Victory,1,30,0
+Defeat,1,-24,3
+Victory,3,27,0
+Defeat,0,-26,2
+Victory,1,29,0
+Victory,3,30,1
+Victory,1,29,0
+Defeat,0,-24,1
+Draw,1,0,1
+Victory,3,29,1
+Defeat,0,-24,1
+Draw,1,0,1
+Defeat,0,-27,1
+Victory,2,28,1
+Defeat,0,-25,1
+Draw,1,0,1
+Defeat,1,-25,2
+Victory,1,-35,0
+Victory,1,29,0
+Victory,2,29,1
+Defeat,2,-27,3
+Victory,3,30,1
+Victory,1,29,0
+Victory,1,60,0
+Victory,3,29,0
+Victory,1,30,0
+Draw,1,0,1
+Victory,1,29,0
+Victory,3,30,0
+Defeat,0,-25,1
+Defeat,0,-26,1
+Victory,1,29,0
+Draw,1,0,1
+Victory,1,30,0
+Victory,2,29,1
+Victory,1,30,0
+Victory,2,30,1
+Defeat,1,-25,2
+Victory,1,29,0
+Defeat,1,-24,2
+Draw,1,0,1
+Victory,2,30,1
+Defeat,0,-24,2
+Defeat,1,-23,2
+Victory,3,28,0
+Victory,3,30,0
+Defeat,1,-24,3
+Draw,1,0,1
+Defeat,1,-24,3
+Victory,2,29,1
+Defeat,0,-25,3
+Draw,1,0,1
+Victory,3,28,0
+Victory,1,29,0
+Defeat,1,-24,2
+Defeat,1,-21,2
+Victory,3,29,0
+Victory,1,30,0
+Draw,0,0,0
+Victory,1,30,0
+Victory,3,30,1
+Defeat,1,-22,2
+Victory,3,29,1
+Defeat,1,-24,3
+Defeat,0,-22,2
+Defeat,0,-26,2
+Draw,1,0,1
+Victory,2,27,0
+Draw,1,0,1
+Defeat,0,-22,1
+Defeat,1,-26,2
+Victory,2,29,1
+Draw,1,0,1
+Defeat,0,-23,1
+Victory,3,29,2
+Defeat,0,-23,1
+Defeat,0,-24,1
+Victory,2,28,1
+Victory,1,30,0
+Draw,1,0,1
+Defeat,1,-24,2
+Defeat,0,-26,1
+Defeat,0,-24,3
+Defeat,1,-24,3
+Defeat,1,-24,2
+Victory,3,27,0
+Defeat,0,-25,3
+Defeat,1,-23,2
+Defeat,0,-24,1
+Defeat,1,-24,3
+Defeat,0,-25,3
+Draw,1,0,1
+Defeat,1,-25,2
+Draw,1,0,1
+Defeat,0,-22,3
+Victory,3,29,0
+Defeat,1,-25,2
+Defeat,0,-28,1
+Defeat,1,-25,3
+Victory,1,26,0
+Defeat,0,-26,1
+Victory,1,28,0
+Defeat,0,-24,1
+Victory,1,29,0
+Defeat,0,-25,3
+Victory,2,32,1
+Victory,3,30,1
+Defeat,1,-24,2
+Defeat,2,-24,3
+Victory,3,28,2
+Victory,1,30,0
+Victory,1,30,0
+Defeat,1,-25,2
+Defeat,0,-23,1
+Victory,1,30,0
+Draw,1,0,1
+Draw,1,0,1
+Victory,1,26,0
+Victory,1,29,0
+Defeat,0,-24,1
+Victory,1,29,0
+Victory,1,29,0
+Defeat,0,-24,1
+Defeat,0,-23,1
+Defeat,0,-22,1
+Defeat,0,-24,3
+Victory,2,28,1
+Defeat,1,-25,3
+Defeat,0,-25,1
+Draw,0,0,0
+Victory,1,30,0
+Defeat,0,-27,1
+Defeat,0,-24,1
+Draw,1,0,1
+Draw,1,0,1
+Draw,1,0,1
+Victory,2,30,1
+Victory,1,31,0
+Draw,1,0,1
+Victory,3,29,0
+Defeat,0,-25,2
+Victory,1,29,0
+Draw,1,0,1
+Victory,1,28,0
+Defeat,0,-24,1
+Draw,1,0,1
+Draw,1,0,1
+Defeat,0,-23,1
+Victory,2,29,1
+Victory,2,28,1
+Victory,2,30,1
+Victory,1,31,0
+Defeat,0,-22,3
+Defeat,0,-24,1
+Victory,1,28,0
+Defeat,1,-24,2
+Defeat,1,-24,2
+Victory,1,29,0
+Victory,1,30,0
+Defeat,1,-24,2
+Victory,2,30,1
+Defeat,1,-25,2
+Victory,2,27,1
+Defeat,0,-24,1
+Defeat,0,-23,3
+Victory,1,30,0
+Victory,2,33,1
+Victory,3,29,0
+Defeat,1,-23,2
+Victory,2,29,1
+Victory,2,31,1
+Victory,2,30,1
+Draw,1,0,1
+Victory,3,27,0
+Victory,3,30,1
+Defeat,0,-24,3
+Victory,2,30,1
+Defeat,1,-23,3
+Victory,1,29,0
+Victory,3,29,0
+Victory,3,30,1
+Victory,2,28,1
+Defeat,1,-24,3
+Victory,1,30,0
+Victory,1,31,0
+Draw,1,0,1
+Draw,1,0,1
+Defeat,1,-24,2
+Victory,2,30,1
+Victory,3,30,0
+Defeat,1,-23,3
+Victory,2,29,1
+Victory,1,31,0
+Victory,1,30,0
+Victory,2,28,1
+Defeat,1,-22,3
+Defeat,1,-23,3
+Defeat,0,-21,1
+Victory,3,32,1
+Victory,3,30,0
+Defeat,1,-25,3
+Defeat,1,-23,3
+Victory,2,29,1
+Defeat,1,-22,3
+Defeat,1,-21,3
+Victory,1,30,0
+Defeat,2,-22,3
+Defeat,1,-23,3
+Defeat,1,-23,2
+Draw,1,0,1
+Victory,1,31,0
+Victory,2,29,1
+Defeat,0,-22,3
+Defeat,1,-23,2
+Victory,2,30,1
+Defeat,0,-23,1
+Victory,1,27,0
+Defeat,0,-22,1
+Draw,1,0,1
+Victory,3,29,1
+Defeat,1,-23,2
+Defeat,0,-25,2
+Defeat,0,-24,1
+Victory,1,26,0
+Defeat,0,-23,3
+Victory,2,31,1
+Defeat,0,-24,1
+Defeat,0,-26,1
+Victory,2,26,1
+Victory,1,31,0
+Defeat,0,-24,2
+Victory,3,31,0
+Victory,1,28,0
+Defeat,0,-22,1
+Defeat,1,-23,2
+Victory,2,31,1
+Victory,1,31,0
+Victory,2,29,1
+Defeat,0,-21,3
+Draw,1,0,1
+Defeat,0,-22,1
+Defeat,1,-21,3
+Defeat,1,-23,2
+Victory,1,30,0
+Defeat,0,-25,3
+Victory,2,30,1
+Defeat,2,-23,3
+Victory,2,32,1
+Defeat,0,-22,3
+Defeat,1,-22,2
+Defeat,1,-23,2
+Defeat,1,-23,2
+Victory,2,32,1
+Victory,1,30,0
+Defeat,1,-22,2
+Victory,2,30,1
+Draw,1,0,1
+Victory,1,28,0
+Victory,1,28,0
+Victory,1,28,0
